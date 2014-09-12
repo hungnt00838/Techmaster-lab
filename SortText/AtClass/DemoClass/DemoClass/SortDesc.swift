@@ -102,10 +102,8 @@ class SortDesc: GenericVC {
                 if  WordCountNSort[i].count < WordCountNSort[j].count {
                     wordCountTemp = WordCountNSort[i].count
                     wordStringTemp = WordCountNSort[i].word
-                    
                     WordCountNSort[i].count = WordCountNSort[j].count
                     WordCountNSort[i].word = WordCountNSort[j].word
-                    
                     WordCountNSort[j].count = wordCountTemp
                     WordCountNSort[j].word = wordStringTemp
                 }
