@@ -53,8 +53,6 @@ class SortController: UIViewController {
     
     func quickSort(newArray: [Int])->Array<Int> {
         
-        // newArray is an array of ints
-        
         var less = [Int]()
         var equal = [Int]()
         var greater = [Int]()
