@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		618EA4C319C85CA7000286BF /* CodeCamp1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 618EA4C219C85CA7000286BF /* CodeCamp1.swift */; };
 		E206527E19B9DAF20017D0A3 /* PropertyDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = E206527D19B9DAF20017D0A3 /* PropertyDemo.swift */; };
 		E206528019B9E7D40017D0A3 /* ProtocolDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = E206527F19B9E7D40017D0A3 /* ProtocolDemo.swift */; };
 		E26B677019C15770004CCEA9 /* BootLogic.swift in Sources */ = {isa = PBXBuildFile; fileRef = E26B676C19C15770004CCEA9 /* BootLogic.swift */; };
@@ -49,6 +50,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		618EA4C219C85CA7000286BF /* CodeCamp1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CodeCamp1.swift; sourceTree = "<group>"; };
 		E206527D19B9DAF20017D0A3 /* PropertyDemo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PropertyDemo.swift; sourceTree = "<group>"; };
 		E206527F19B9E7D40017D0A3 /* ProtocolDemo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProtocolDemo.swift; sourceTree = "<group>"; };
 		E26B676C19C15770004CCEA9 /* BootLogic.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BootLogic.swift; sourceTree = "<group>"; };
@@ -102,6 +104,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		618EA4C119C85C7E000286BF /* CodeCamp1 */ = {
+			isa = PBXGroup;
+			children = (
+				618EA4C219C85CA7000286BF /* CodeCamp1.swift */,
+			);
+			name = CodeCamp1;
+			sourceTree = "<group>";
+		};
 		E26B676B19C154D2004CCEA9 /* Core */ = {
 			isa = PBXGroup;
 			children = (
@@ -150,6 +160,7 @@
 		E2CE122819A762F3008E72E8 /* DemoClass */ = {
 			isa = PBXGroup;
 			children = (
+				618EA4C119C85C7E000286BF /* CodeCamp1 */,
 				E2CE122B19A762F3008E72E8 /* AppDelegate.swift */,
 				E26B676B19C154D2004CCEA9 /* Core */,
 				E2CE124819A763F4008E72E8 /* Object Oriented */,
@@ -348,6 +359,7 @@
 				E2CE125F19A789C6008E72E8 /* Composite.swift in Sources */,
 				E2FF3F5519C1674B0089A709 /* DemoArray.swift in Sources */,
 				E2CE125C19A788BB008E72E8 /* DemoComposite.swift in Sources */,
+				618EA4C319C85CA7000286BF /* CodeCamp1.swift in Sources */,
 				E2CE125419A77BD8008E72E8 /* Triangle.swift in Sources */,
 				E2F305A519ACA98D00C78FB8 /* DemoStruct.swift in Sources */,
 				E2CE122C19A762F3008E72E8 /* AppDelegate.swift in Sources */,

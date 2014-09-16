@@ -25,7 +25,8 @@ class BootLogic: NSObject {
             [TITLE: "Array",CLASS: "DemoArray"],
             [TITLE: "Dictionary",CLASS: "DemoDictionary"],
             [TITLE: "Manipulate Array",CLASS: "ManipulateArray"],
-            [TITLE: "Sort Array",CLASS: "ManualSort"]
+            [TITLE: "Sort Array",CLASS: "ManualSort"],
+            [TITLE: "Code Camp",CLASS: "CodeCamp1"]
             ]
         ]
         
