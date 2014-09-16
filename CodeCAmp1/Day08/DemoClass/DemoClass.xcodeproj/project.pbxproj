@@ -8,6 +8,9 @@
 
 /* Begin PBXBuildFile section */
 		618EA4C319C85CA7000286BF /* CodeCamp1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 618EA4C219C85CA7000286BF /* CodeCamp1.swift */; };
+		61F1E03719C88198000DABD4 /* CodeCamp2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61F1E03619C88198000DABD4 /* CodeCamp2.swift */; };
+		61F1E03919C881A5000DABD4 /* CodeCamp3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61F1E03819C881A5000DABD4 /* CodeCamp3.swift */; };
+		61F1E03B19C881AE000DABD4 /* CodeCamp4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61F1E03A19C881AE000DABD4 /* CodeCamp4.swift */; };
 		E206527E19B9DAF20017D0A3 /* PropertyDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = E206527D19B9DAF20017D0A3 /* PropertyDemo.swift */; };
 		E206528019B9E7D40017D0A3 /* ProtocolDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = E206527F19B9E7D40017D0A3 /* ProtocolDemo.swift */; };
 		E26B677019C15770004CCEA9 /* BootLogic.swift in Sources */ = {isa = PBXBuildFile; fileRef = E26B676C19C15770004CCEA9 /* BootLogic.swift */; };
@@ -51,6 +54,9 @@
 
 /* Begin PBXFileReference section */
 		618EA4C219C85CA7000286BF /* CodeCamp1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CodeCamp1.swift; sourceTree = "<group>"; };
+		61F1E03619C88198000DABD4 /* CodeCamp2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CodeCamp2.swift; sourceTree = "<group>"; };
+		61F1E03819C881A5000DABD4 /* CodeCamp3.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CodeCamp3.swift; sourceTree = "<group>"; };
+		61F1E03A19C881AE000DABD4 /* CodeCamp4.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CodeCamp4.swift; sourceTree = "<group>"; };
 		E206527D19B9DAF20017D0A3 /* PropertyDemo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PropertyDemo.swift; sourceTree = "<group>"; };
 		E206527F19B9E7D40017D0A3 /* ProtocolDemo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProtocolDemo.swift; sourceTree = "<group>"; };
 		E26B676C19C15770004CCEA9 /* BootLogic.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BootLogic.swift; sourceTree = "<group>"; };
@@ -108,6 +114,9 @@
 			isa = PBXGroup;
 			children = (
 				618EA4C219C85CA7000286BF /* CodeCamp1.swift */,
+				61F1E03619C88198000DABD4 /* CodeCamp2.swift */,
+				61F1E03819C881A5000DABD4 /* CodeCamp3.swift */,
+				61F1E03A19C881AE000DABD4 /* CodeCamp4.swift */,
 			);
 			name = CodeCamp1;
 			sourceTree = "<group>";
@@ -341,10 +350,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				E206527E19B9DAF20017D0A3 /* PropertyDemo.swift in Sources */,
+				61F1E03919C881A5000DABD4 /* CodeCamp3.swift in Sources */,
 				E2CE125819A78369008E72E8 /* DemoPolymorphism.swift in Sources */,
 				E2FF3F5719C19EC00089A709 /* DemoDictionary.swift in Sources */,
 				E2CE125A19A7843D008E72E8 /* Circle.swift in Sources */,
 				E26B677219C15770004CCEA9 /* MainScreen.swift in Sources */,
+				61F1E03B19C881AE000DABD4 /* CodeCamp4.swift in Sources */,
+				61F1E03719C88198000DABD4 /* CodeCamp2.swift in Sources */,
 				E206528019B9E7D40017D0A3 /* ProtocolDemo.swift in Sources */,
 				E2CE125019A76CC7008E72E8 /* Rectangle.swift in Sources */,
 				E2BF093E19BEE770008F3A78 /* WordCounter.swift in Sources */,

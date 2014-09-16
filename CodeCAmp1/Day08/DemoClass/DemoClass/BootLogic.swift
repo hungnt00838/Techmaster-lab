@@ -22,11 +22,14 @@ class BootLogic: NSObject {
             [TITLE: "Polymorphism",CLASS: "DemoPolymorphism"]]
         ]
         var intermediate = [SECTION: "Collection",MENU: [
-            [TITLE: "Array",CLASS: "DemoArray"],
-            [TITLE: "Dictionary",CLASS: "DemoDictionary"],
-            [TITLE: "Manipulate Array",CLASS: "ManipulateArray"],
-            [TITLE: "Sort Array",CLASS: "ManualSort"],
-            [TITLE: "Code Camp",CLASS: "CodeCamp1"]
+//            [TITLE: "Array",CLASS: "DemoArray"],
+//            [TITLE: "Dictionary",CLASS: "DemoDictionary"],
+//            [TITLE: "Manipulate Array",CLASS: "ManipulateArray"],
+//            [TITLE: "Sort Array",CLASS: "ManualSort"],
+            [TITLE: "Code Camp BT1",CLASS: "CodeCamp1"],
+            [TITLE: "Code Camp BT2",CLASS: "CodeCamp2"],
+            [TITLE: "Code Camp BT3",CLASS: "CodeCamp3"],
+            [TITLE: "Code Camp BT4",CLASS: "CodeCamp4"]
             ]
         ]
         
