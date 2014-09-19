@@ -40,9 +40,9 @@ class BonFire: UIViewController {
         fire?.animationDuration = 1.5
         fire?.animationRepeatCount = 100
         self.view.addSubview(fire!)
-        self.label = UILabel(frame: CGRect(x: 0, y: self.view.bounds.width * 0.5, width: 250, height: 30))
+        self.label = UILabel(frame: CGRect(x: 0, y: self.view.bounds.width * 0.5, width: 200, height: 30))
         self.label?.font = UIFont.boldSystemFontOfSize(17)
-        var timer = NSTimer.scheduledTimerWithTimeInterval(0.6, target: self, selector: Selector("update:"), userInfo: nil, repeats: true)
+        var timer = NSTimer.scheduledTimerWithTimeInterval(0.1, target: self, selector: Selector("update:"), userInfo: nil, repeats: true)
         self.view.addSubview(self.label!)
     }
     
